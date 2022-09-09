@@ -1,4 +1,7 @@
+![example workflow](https://github.com/lekseff/Todo/actions/workflows/deploy.yml/badge.svg)
 
+[GitHub Pages](https://lekseff.github.io/Todo/)
+---
 ## Todo приложение
 ---
 Основные функции:
@@ -8,4 +11,4 @@
 - Удаление задачи;
 - Отметка о выполнении задачи 
 
-![](./assets/screen.jpg)
+![Todo](./assets/screen.jpg)
