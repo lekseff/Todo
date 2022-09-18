@@ -1,7 +1,7 @@
 import { useState, useCallback } from 'react';
-import TaskItem from '../src/components/TaskItem/TaskItem';
-import Form from '../src/components/Form/Form';
-import TaskList from '../src/components/TaskList/TaskList';
+import TaskItem from './components/TaskItem/TaskItem';
+import Form from './components/Form/Form';
+import TaskList from './components/TaskList/TaskList';
 import './App.css';
 
 function App() {
